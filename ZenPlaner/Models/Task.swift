@@ -74,7 +74,7 @@ final class ZenTask {
     var completedAt: Date?
     var deadline: Date?
     var reminderOffset: ReminderOffset?
-    var isRepeating: Bool
+    var isRepeating: Bool = false
 
     init(
         text: String,
