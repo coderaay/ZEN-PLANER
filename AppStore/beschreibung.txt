@@ -1,0 +1,57 @@
+App Name: Zen Planer
+Untertitel: Dein achtsamer Tagesplaner
+
+--- BESCHREIBUNG ---
+
+Weniger planen, mehr schaffen.
+
+Zen Planer hilft dir, dich jeden Tag auf das Wesentliche zu konzentrieren – mit maximal 5 Aufgaben pro Tag. Kein endloses Scrollen durch To-do-Listen, keine Überplanung. Nur das, was heute wirklich zählt.
+
+DEIN TAG, KLAR STRUKTURIERT
+- Plane bis zu 5 Aufgaben pro Tag – bewusst begrenzt, damit du fokussiert bleibst
+- Setze Prioritäten (Hoch, Mittel, Niedrig) für klare Entscheidungen
+- Ordne deine Aufgaben per Drag & Drop nach deinen Bedürfnissen
+
+FRISTEN & ERINNERUNGEN
+- Setze Uhrzeiten als Frist für zeitkritische Aufgaben
+- Lass dich rechtzeitig erinnern – von sofort bis 2 Stunden vorher
+- Nie wieder eine wichtige Deadline verpassen
+
+TÄGLICHE GEWOHNHEITEN
+- Markiere Aufgaben als wiederholend und sie erscheinen automatisch am nächsten Tag
+- Baue gesunde Routinen auf, ohne sie jeden Tag neu einzutragen
+
+ONE-THING-MODUS
+- Blende alles aus und fokussiere dich auf eine einzige Aufgabe
+- Perfekt für konzentriertes Arbeiten ohne Ablenkung
+
+ABEND-REFLEXION
+- Schließe deinen Tag bewusst ab
+- Halte deine Stimmung und Gedanken fest
+- Entwickle ein Bewusstsein für deine täglichen Fortschritte
+
+STATISTIKEN & ARCHIV
+- Verfolge deine Erledigungsquote über Wochen und Monate
+- Sieh im Archiv, was du in den letzten 30 Tagen geschafft hast
+- Erkenne Muster in deiner Produktivität
+
+SCHÖN & INDIVIDUELL
+- Drei beruhigende Farbthemen: Wald, Ozean und Sand
+- Minimalistisches Design, das nicht ablenkt
+- Tägliche inspirierende Zitate
+
+PRIVATSPHÄRE
+- Alle Daten bleiben auf deinem Gerät
+- Keine Registrierung, kein Konto, keine Cloud
+- Keine Werbung, keine In-App-Käufe – komplett kostenlos
+
+Zen Planer ist für alle, die weniger To-do-Liste und mehr Achtsamkeit in ihrem Alltag wollen.
+
+--- KEYWORDS (max. 100 Zeichen) ---
+
+Planer,Aufgaben,Fokus,Achtsamkeit,Produktivität,Tagesplaner,Gewohnheiten,Reflexion,Minimalistisch
+
+--- KATEGORIE ---
+
+Primär: Produktivität
+Sekundär: Lifestyle

@@ -1,0 +1,50 @@
+Datenschutzerklärung – Zen Planer
+
+Stand: Februar 2026
+
+1. Verantwortlicher
+
+Raimund Welge
+E-Mail: [deine E-Mail-Adresse einfügen]
+
+2. Überblick
+
+Zen Planer wurde mit dem Grundsatz entwickelt, deine Privatsphäre zu schützen. Die App sammelt, speichert und überträgt keine personenbezogenen Daten an uns oder Dritte.
+
+3. Datenspeicherung
+
+Alle Daten, die du in Zen Planer eingibst (Aufgaben, Reflexionen, Einstellungen), werden ausschließlich lokal auf deinem Gerät gespeichert. Es gibt keine Cloud-Synchronisation, keine Server-Verbindung und keine externe Datenbank.
+
+Die App nutzt folgende lokale Speichertechnologien:
+- SwiftData: Zum Speichern deiner Aufgaben und Reflexionen auf dem Gerät
+- UserDefaults: Zum Speichern deiner Einstellungen (z.B. gewähltes Farbthema, Onboarding-Status)
+
+4. Datenerhebung
+
+Zen Planer erhebt keine personenbezogenen Daten. Im Einzelnen:
+- Keine Registrierung oder Anmeldung erforderlich
+- Keine Analyse- oder Tracking-Tools
+- Keine Werbe-SDKs
+- Keine Weitergabe von Daten an Dritte
+- Keine Netzwerkverbindungen zu externen Servern
+
+5. Benachrichtigungen
+
+Die App kann auf Wunsch lokale Benachrichtigungen senden, um dich an Fristen zu erinnern. Diese Benachrichtigungen werden vollständig auf deinem Gerät verarbeitet. Es werden keine Push-Notification-Server oder externe Dienste verwendet. Du kannst Benachrichtigungen jederzeit in den iOS-Einstellungen deaktivieren.
+
+6. Datenlöschung
+
+Da alle Daten lokal gespeichert werden, werden sämtliche Daten vollständig gelöscht, wenn du die App von deinem Gerät entfernst.
+
+7. Kinder
+
+Zen Planer sammelt keine Daten von Kindern oder anderen Nutzern. Da keine personenbezogenen Daten erhoben werden, ist die App für alle Altersgruppen geeignet.
+
+8. Änderungen
+
+Diese Datenschutzerklärung kann bei Bedarf aktualisiert werden. Änderungen werden in der App oder auf unserer Webseite veröffentlicht.
+
+9. Kontakt
+
+Bei Fragen zum Datenschutz erreichst du uns unter:
+E-Mail: [deine E-Mail-Adresse einfügen]
